@@ -1,3 +1,6 @@
+# Dev Environment
+.vscode/
+
 # Build files
 bin/
 build/
